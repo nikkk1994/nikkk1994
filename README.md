@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently doing internship in Full Stack Development
 - 📫 How to reach me Email - rvsngh1990@gmail.com
 
 <!---
